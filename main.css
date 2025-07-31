@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding: 0;
+	background:#000;
+}
+
+p {
+	font-size: 10px;
+	line-height: 10px;
+	text-align: justify;
+
+	/* Background Image Settings */
+	background: url(gelika.jpg) no-repeat center center;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
